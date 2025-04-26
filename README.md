@@ -2,6 +2,8 @@
 
 A simple interactive drum kit built with HTML, CSS, and JavaScript. This project allows you to play drum sounds by pressing corresponding keys on the keyboard. It also includes a modal window that provides information about the author.
 
+## Deployment - [link](https://yuyuu-8.github.io/js-drum-kit/)
+
 ## Features
 
 - Play sounds with keyboard keys (`A`, `S`, `D`, `F`, `G`, `H`, `J`, `K`, `L`).
